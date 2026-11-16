@@ -1,0 +1,15 @@
+.card{
+    height:300px;
+    width:250px;
+    margin:30px;
+    background-color:lightblue;
+    display:flex;
+    flex-direction:column;
+    flex-wrap: wrap;
+    justify-content;space-between;
+    align-items:center;
+    padding:20px;
+}
+p{
+    text-align:center;
+}
